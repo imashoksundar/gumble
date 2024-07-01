@@ -1,4 +1,4 @@
-module github.com/talkkonnect/gumble
+module github.com/imashoksundar/gumble
 
 go 1.22.3
 
