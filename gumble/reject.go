@@ -3,7 +3,7 @@ package gumble
 import (
 	"strconv"
 
-	"github.com/talkkonnect/gumble/gumble/MumbleProto"
+	"github.com/imashoksundar/gumble/gumble/MumbleProto"
 )
 
 // RejectType describes why a client connection was rejected by the server.

@@ -2,7 +2,7 @@ package opus
 
 import (
 	"github.com/talkkonnect/gopus"
-	"github.com/talkkonnect/gumble/gumble"
+	"github.com/imashoksundar/gumble/gumble"
 )
 
 var Codec gumble.AudioCodec

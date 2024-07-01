@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/talkkonnect/gumble/gumble"
+	"github.com/imashoksundar/gumble/gumble"
 )
 
 func main() {

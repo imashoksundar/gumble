@@ -1,4 +1,4 @@
-package gumbleffmpeg // import "github.com/talkkonnect/gumble/gumbleffmpeg"
+package gumbleffmpeg // import "github.com/imashoksundar/gumble/gumbleffmpeg"
 
 import (
 	"encoding/binary"
@@ -9,7 +9,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
-	"github.com/talkkonnect/gumble/gumble"
+	"github.com/imashoksundar/gumble/gumble"
 )
 
 // State represents the state of a Stream.
