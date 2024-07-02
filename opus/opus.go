@@ -1,7 +1,7 @@
 package opus
 
 import (
-	"github.com/talkkonnect/gopus"
+	"github.com/imashoksundar/gopus"
 	"github.com/imashoksundar/gumble/gumble"
 )
 
